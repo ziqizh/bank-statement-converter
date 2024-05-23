@@ -59,4 +59,4 @@ For all the other expenses, Account is "Expenses:Adjustment"
 2. In [this page](https://www1.royalbank.com/sgw1/olb/index-en/#/details;selectedAccount=C001;sort=Descending)
 
 ## Tangerine
-[Download transactions](https://www.tangerine.ca/app/#/transactions?locale=en_CA&flowType=create)
+Click "Transactions -> Download Transactions"[link](https://www.tangerine.ca/app/#/accounts)
