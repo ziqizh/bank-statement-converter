@@ -1,0 +1,26 @@
+{
+    "chase": [
+        {
+            "pages":"1",
+            "table_regions":["12,626,252,416"]
+        },
+        {
+            "pages":"3-end",
+            "table_regions":["8,779,507,347"]
+        }
+    ],
+    "rbc": [
+        {
+            "pages":"all",
+            "table_regions":["56,620,356,89"],
+            "row_tol":10
+        }
+    ],
+    "amex": [
+        {
+            "pages":"1",
+            "table_regions":["389,635,571,338"],
+            "strip_text":"\n"
+        }
+    ]
+}

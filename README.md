@@ -43,3 +43,20 @@ If related to gas or fuel, Account is "Expenses:Auto:Fuel";
 For all the other expenses, Account is "Expenses:Adjustment"
 
 ```
+# Supported Banks
+## Chase
+1. Login to Chase. Click "accounts". 
+2. Click the "more" dropdown menu, choose "spending summary ", top right(on laptop, left on mobile)
+3. Click "download transactions" CSV is an option in the download drop-downs.
+
+## Amex
+1. Go to “Statements & Activity” and select the custom date range.
+2. Click the search button, which will display the transactions below.
+3. Click the Excel or CSV to download.
+
+## RBC 
+1. [Sign in](https://secure.royalbank.com/statics/login-service-ui/index#/full/signin)
+2. In [this page](https://www1.royalbank.com/sgw1/olb/index-en/#/details;selectedAccount=C001;sort=Descending)
+
+## Tangerine
+[Download transactions](https://www.tangerine.ca/app/#/transactions?locale=en_CA&flowType=create)
